@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "675134705756",
+    "project_id": "myreportapp-55025",
+    "storage_bucket": "myreportapp-55025.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675134705756:android:921971cdec883c39cf1699",
+        "android_client_info": {
+          "package_name": "com.aemiralfath.myreportapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675134705756-bimg1u6s5p4b84pb4lm4ufiicq1ggo7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASgmCeHB6THpHcQMEBxOeQ76zhArCtnXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675134705756-bimg1u6s5p4b84pb4lm4ufiicq1ggo7h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

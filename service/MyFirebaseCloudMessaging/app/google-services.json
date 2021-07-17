@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "1068689274697",
+    "firebase_url": "https://myfirebasecloundmessagin-5e47b.firebaseio.com",
+    "project_id": "myfirebasecloundmessagin-5e47b",
+    "storage_bucket": "myfirebasecloundmessagin-5e47b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068689274697:android:ef856cc79a34e1dd3dcc98",
+        "android_client_info": {
+          "package_name": "com.aemiralfath.myfirebasecloudmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068689274697-ue7t8q3u4lo7iq8l7iudtsc696ad9qli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLKr-VOQ36NE072BorK8_AT6SbikG4B1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068689274697-ue7t8q3u4lo7iq8l7iudtsc696ad9qli.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068689274697:android:fb9520d860a632dd3dcc98",
+        "android_client_info": {
+          "package_name": "com.criptdestroyer.myfirebasecloundmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068689274697-qp16lu74lj27jb6735r1st0jq28cvam0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.criptdestroyer.myfirebasecloundmessaging",
+            "certificate_hash": "556002001cda60f78958b8e901c78364f5d9640d"
+          }
+        },
+        {
+          "client_id": "1068689274697-ue7t8q3u4lo7iq8l7iudtsc696ad9qli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLKr-VOQ36NE072BorK8_AT6SbikG4B1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068689274697-ue7t8q3u4lo7iq8l7iudtsc696ad9qli.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
